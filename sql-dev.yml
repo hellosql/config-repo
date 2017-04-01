@@ -1,6 +1,6 @@
 profile: dev_333333
 
-datasource.url=jdbc:mysql://DEVIP:PORT/DBNAME?characterEncoding=UTF-8
-datasource.username=username
-datasource.password=password
-datasource.driverCass-name=com.mysql.jdbc.Driver
+datasource.url: jdbc:mysql://DEVIP:PORT/DBNAME?characterEncoding=UTF-8
+datasource.username: username
+datasource.password: password
+datasource.driverCass-name: com.mysql.jdbc.Driver
